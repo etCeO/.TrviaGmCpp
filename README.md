@@ -1,8 +1,8 @@
-# .TrviaGmCpp
+# Trivia Game
 
 - A simulated Trivia game round with two contestants and a list of sample questions
 
-# AUTHOR INFO
+## Author Info
 
 - Full Name: Ethan E. Lopez
 - Student ID: 2425516
