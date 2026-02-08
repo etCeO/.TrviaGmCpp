@@ -11,20 +11,20 @@
 
 ## Usage
 
-1. Compile the program using the appropriate compiler for the programming language used.
-2. Run the executable to start the trivia game simulation.
-3. Players respond to questions through console input, and the program updates scores and displays results after each round.
+1. Compile the program using an appropriate C++ compiler.
+2. Run the executable file to begin the trivia game simulation.
+3. Players' responses come through the console input as the program processes, updates scores, and shows results after every round.
 
 ## Input Format
 
-- The game uses a predefined list of trivia questions and corresponding answers stored internally or loaded from a file.
-- Each question is presented sequentially to both contestants.
-- Player responses are entered via standard input (e.g., keyboard).
-- Input is validated to ensure proper response formatting.
+- The game uses a predefined list of trivia questions and corresponding answers.
+- Each question is presented to both contestants one after the other.
+- Player input is given as standard input via keyboard.
+- Input validation ensures response formatting is proper.
 
 ## Implementation Details
 
-- The program models contestants and questions using structured data types or classes.
+- The program models contestants and questions using structured data types and classes. 
 - A game controller manages turn order, question presentation, and score updates.
-- Responses are compared against correct answers to determine scoring.
-- The program outputs final results and declares a winner at the end of the round.
+- Answers are compared to keys to determine scoring.
+- The program will display final results and declare a winner upon game completion.
